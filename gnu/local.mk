@@ -50,6 +50,7 @@
 # Copyright © 2022 Daniel Meißner <daniel.meissner-i4k@ruhr-uni-bochum.de>
 # Copyright © 2022 Remco van 't Veer <remco@remworks.net>
 # Copyright © 2022 Artyom V. Poptsov <poptsov.artyom@gmail.com>
+# Copyright © 2022 Jon Eskin <eskinjp@gmail.com>
 #
 # This file is part of GNU Guix.
 #
@@ -503,6 +504,7 @@ GNU_SYSTEM_MODULES =				\
   %D%/packages/python-xyz.scm			\
   %D%/packages/toys.scm				\
   %D%/packages/tryton.scm			\
+  %D%/packages/qbe.scm				\
   %D%/packages/qt.scm				\
   %D%/packages/racket.scm			\
   %D%/packages/radio.scm			\
